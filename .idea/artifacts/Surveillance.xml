@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Surveillance">
+    <output-path>$PROJECT_DIR$/../TestServer/plugins</output-path>
+    <root id="archive" name="Surveillance.jar">
+      <element id="module-output" name="Surveillance" />
+    </root>
+  </artifact>
+</component>

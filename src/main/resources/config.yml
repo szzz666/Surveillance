@@ -1,0 +1,7 @@
+Language: chs.yml
+HttpServerPort: 234000
+pageSize: 100
+useStarrySkyAuth: true
+allowAssistant: false
+allowUsrPwd:
+  "MCSzzz666": null
